@@ -1,0 +1,12 @@
+.a {
+    display: none ;
+    /* opacity: 0; */
+}
+
+@media (max-width: 650px) {
+    .a {
+        display: block !important;
+        /* opacity: 0; */
+    }
+    
+}
